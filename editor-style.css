@@ -1,0 +1,129 @@
+html, body{
+	max-width: 630px;
+	font: 12px/20px normal Arial, Helvetica, sans-serif;
+}
+p {
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+
+.half, .one-third, .two-thirds, .one-fourth, .three-fourth {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	border: dashed 1px #888;
+	min-height: 1.4em;
+	display: inline-block;
+	padding: 5px;
+	vertical-align: top;
+	margin: 1px;
+}
+
+.dt_col .jpbVisualShortcode{
+	margin: 0 -6px -6px -6px;
+}
+
+.helper-tag{
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+.jpbVisualShortcode {
+	display: inline-block;
+	vertical-align: top;
+	border: dashed 1px #888;
+	background-color: #f2f8ff;
+	height: 105px;
+	width: 100%;
+	min-width: 105px;
+	max-width: 610px;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.half{
+	min-width: 300px;
+	max-width: 300px;
+}
+.one-third{
+	min-width: 200px;
+	max-width: 200px;
+}
+.two-thirds{
+	min-width: 400px;
+	max-width: 400px;
+}
+.one-fourth{
+	min-width: 150px;
+	max-width: 150px;
+}
+.three-fourth{
+	min-width: 450px;
+	max-width: 450px;
+}
+.full-width{
+	min-width: 600px;
+	max-width: 600px;
+}
+
+
+.half:before, .one-third:before, .two-thirds:before, .one-fourth:before, .three-fourth:before{
+	display: block;
+	height: 12px;
+	line-height: 11px;
+	font-size: 10px;
+	color: #ccc;
+	background: #f2f8ff;
+}
+
+.half:before{
+	content: "1/2";
+}
+.one-third:before{
+	content: "1/3";
+}
+.two-thirds:before{
+	content: "2/3";
+}
+.one-fourth:before{
+	content: "1/4";
+}
+.three-fourth:before{
+	content: "3/4";
+}
+
+.dt-recent_photos {
+	background-image: url("plugins/shortcodes/images/dt-recent-photos.png");
+}
+.dt-portfolio {
+	background-image: url("plugins/shortcodes/images/dt-portfolio.png");
+}
+.dt-portfolio {
+	background-image: url("plugins/shortcodes/images/dt-portfolio.png");
+}
+.dt-testimonials {
+	background-image: url("plugins/shortcodes/images/dt-testimonials.png");
+}
+.dt-partners {
+	background-image: url("plugins/shortcodes/images/dt-clients.png");
+}
+.dt-twitter {
+	background-image: url("plugins/shortcodes/images/dt-twitter.png");
+}
+.dt-contact {
+	background-image: url("plugins/shortcodes/images/dt-contact-form.png");
+}
+.dt-benefits {
+	background-image: url("plugins/shortcodes/images/dt-benefits.png");
+}
+.anything-slider,
+.dt-anything-slider {
+	background-image: url("plugins/shortcodes/images/dt-slideshow.png");
+}
+
+.dt-benefits {
+	background-image: url("plugins/shortcodes/images/dt-benefits.png");
+}

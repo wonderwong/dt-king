@@ -1,0 +1,10 @@
+#poststuff h2.kid-title-icon {background: url('../images/kid-icon-32.png') left no-repeat; padding-left: 42px;}
+
+#adminmenu #toplevel_page_shortcode-kid div.wp-menu-image {
+	background: transparent url('../images/admin-icon.png') no-repeat scroll 6px -19px;
+}
+#adminmenu #toplevel_page_shortcode-kid:hover div.wp-menu-image,
+#adminmenu #toplevel_page_shortcode-kid.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #toplevel_page_shortcode-kid.current div.wp-menu-image {
+	background: transparent url('../images/admin-icon.png') no-repeat scroll 6px 7px;
+}

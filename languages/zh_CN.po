@@ -1,0 +1,2929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dt 1.0\n"
+"POT-Creation-Date: 2012-12-08 10:37+0800\n"
+"PO-Revision-Date: 2012-12-08 10:38+0800\n"
+"Last-Translator: Stefan <qushengfeng@gmail.com>\n"
+"Language-Team: DeepTime <deeptime@qq.com>\n"
+"Language: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;_x;__\n"
+"X-Poedit-Basepath: D:\\Phpnow\\vhosts\\chinaryx.com\\deair\\wp-content"
+"\\themes\\dt-deair\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Error"
+msgstr "错误"
+
+#: 404.php:15
+msgid "404 &ndash; File not found"
+msgstr "404 – 抱歉，您访问页面不存在！"
+
+#: archive.php:15
+msgid "Category archive: "
+msgstr "分类归档："
+
+#: archive.php:18
+msgid "Tag archive: "
+msgstr "标签归档："
+
+#: archive.php:22
+msgid "Author archive: "
+msgstr "作者归档："
+
+#: archive.php:25
+msgid "Date archive: "
+msgstr "日期归档："
+
+#: archive.php:29
+msgid "Archive: "
+msgstr "归档："
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章设置了密码保护，请输入密码查看该文章评论。"
+
+#: comments.php:32
+msgid "1 comment:"
+msgstr "1 comment:"
+
+#: comments.php:33
+#, php-format
+msgid "% comments:"
+msgstr "% comments:"
+
+#: comments.php:70
+msgid "Leave a comment:"
+msgstr "发表评论："
+
+#: comments.php:77 widgets/get_in_touch.php:48
+msgid "Name"
+msgstr "姓名"
+
+#: comments.php:82 widgets/get_in_touch.php:53
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:90
+msgid "Add comment"
+msgstr "添加评论"
+
+#: comments.php:90
+msgid "Submit comment"
+msgstr "提交评论"
+
+#: comments.php:91
+msgid "Clear"
+msgstr "清除"
+
+#: content-dt-catalog.php:32 single-dt_catalog.php:62
+msgid "Price: "
+msgstr "价格："
+
+#: content-dt-catalog.php:32 single-dt_catalog.php:62
+msgid "Undefined"
+msgstr "未定义"
+
+#: functions.php:5
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: functions.php:200
+msgid "Details"
+msgstr "Read More"
+
+#: functions.php:258
+#, php-format
+msgid "%s at %s"
+msgstr "%s at %s"
+
+#: functions.php:264 functions/core/includes/metabox-functions.php:884
+#: functions/modules/dt-video/setup.php:12
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:268
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:510
+msgid "Empty page layout"
+msgstr "空页面布局"
+
+#: functions.php:516
+msgid "Empty post id"
+msgstr "空 post id"
+
+#: functions.php:536
+msgid "Undefined page layout"
+msgstr "未定义页面布局"
+
+#: functions.php:546
+msgid "There are no such page"
+msgstr "没有此页面"
+
+#: functions.php:1931
+msgid "To view this protected post, enter the password below:"
+msgstr "查看受保护内容，请输入密码："
+
+#: functions.php:1932
+msgid "Password:"
+msgstr "密码："
+
+#: header.php:37
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: search.php:14
+msgid "Search Results for: "
+msgstr "搜索结果："
+
+#: search.php:28
+msgid "Nothing found"
+msgstr "没有找到"
+
+#: searchform.php:5
+msgid "Search..."
+msgstr "搜索..."
+
+#: single-dt_blog.php:31
+#, php-format
+msgid "This article was written by %s"
+msgstr "这篇文章作者是 %s"
+
+#: single-dt_catalog.php:68
+msgid "Make purchase!"
+msgstr "请购买！"
+
+#: single-dt_catalog.php:90
+msgid "Related Items"
+msgstr "相关信息"
+
+#: single-dt_portfolio.php:51
+#, php-format
+msgid "Project %d of %d"
+msgstr "Project %d of %d"
+
+#: single-dt_portfolio.php:130 single-dt_video.php:38
+msgid "Category: "
+msgstr "类别："
+
+#: single-dt_portfolio.php:159 functions/modules/dt-portfolio/metaboxes.php:31
+msgid "Related Projects"
+msgstr "相关项目"
+
+#: slider.php:115
+#: plugins/shortcodes/shortcodekid/includes/slider/functions.php:158
+#: widgets/slider.php:114
+msgid "There are no images in the slider."
+msgstr "没有图像在幻灯片。"
+
+#: functions/core/core-init.php:40
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions/core/includes/core-metaboxes.php:18
+msgid "Left sidebar"
+msgstr "左侧边栏"
+
+#: functions/core/includes/core-metaboxes.php:22
+msgid "Right sidebar"
+msgstr "右侧边栏"
+
+#: functions/core/includes/core-metaboxes.php:27
+msgid "Sidebar position"
+msgstr "边栏位置"
+
+#: functions/core/includes/core-metaboxes.php:54
+msgid "Sidebar widgetized area"
+msgstr "侧边栏部件区域"
+
+#: functions/core/includes/core-metaboxes.php:122
+msgid "Yes"
+msgstr "是"
+
+#: functions/core/includes/core-metaboxes.php:123
+msgid "No"
+msgstr "否"
+
+#: functions/core/includes/core-metaboxes.php:127
+msgid "Show widgetized footer"
+msgstr "显示部件页脚"
+
+#: functions/core/includes/core-metaboxes.php:170
+msgid "Footer widgetized area"
+msgstr "页脚部件区域"
+
+#: functions/core/includes/lib.php:46
+msgid "no comments"
+msgstr "没有评论"
+
+#: functions/core/includes/lib.php:46
+msgid "1 comment"
+msgstr "1 comment"
+
+#: functions/core/includes/lib.php:46
+#, php-format
+msgid "% comments"
+msgstr "% comments"
+
+#: functions/core/includes/lib.php:47
+msgid "Comments closed for this post"
+msgstr "已关闭这篇文章的评论"
+
+#: functions/core/includes/lib.php:102
+#: functions/modules/dt-benefits/actions.php:37
+#: functions/modules/dt-catalog/actions.php:57
+#: functions/modules/dt-logos/actions.php:37
+#: functions/modules/dt-photoalbums/actions.php:57
+#: functions/modules/dt-portfolio/actions.php:57
+#: functions/modules/dt-team/actions.php:37
+#: functions/modules/dt-testimonials/actions.php:37
+#: functions/modules/dt-video/actions.php:37
+msgid ", "
+msgstr ", "
+
+#: functions/core/includes/lib.php:186
+#, php-format
+msgid "Posts by %s"
+msgstr "Posts by %s"
+
+#: functions/core/includes/lib.php:938
+msgid "All posts"
+msgstr "全部文章"
+
+#: functions/core/includes/lib.php:939
+#: functions/core/includes/metabox-functions.php:928
+#: functions/core/includes/metabox-functions.php:946 widgets/albums.php:255
+#: widgets/catalog.php:208 widgets/logos.php:181 widgets/ourteem.php:184
+#: widgets/photos.php:210 widgets/popular_posts.php:174
+#: widgets/portfolio.php:212 widgets/testimonials.php:148
+msgid "All"
+msgstr "全部"
+
+#: functions/core/includes/lib.php:951
+msgid "Other posts"
+msgstr "其他文章"
+
+#: functions/core/includes/lib.php:952
+msgid "Other"
+msgstr "其他"
+
+#: functions/core/includes/metabox-functions.php:628
+#: functions/modules/dt-photoalbums/functions.php:48
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:265
+#: widgets/albums.php:225 widgets/catalog.php:178 widgets/logos.php:151
+#: widgets/ourteem.php:154 widgets/photos.php:180
+#: widgets/popular_posts.php:142 widgets/portfolio.php:182
+#: widgets/testimonials.php:118
+msgid "Order by ID"
+msgstr "按ID排序"
+
+#: functions/core/includes/metabox-functions.php:629
+#: functions/modules/dt-photoalbums/functions.php:49
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:266
+#: widgets/albums.php:226 widgets/catalog.php:179 widgets/logos.php:152
+#: widgets/ourteem.php:155 widgets/photos.php:181
+#: widgets/popular_posts.php:143 widgets/portfolio.php:183
+#: widgets/testimonials.php:119
+msgid "Order by author"
+msgstr "按作者排序"
+
+#: functions/core/includes/metabox-functions.php:630
+#: functions/modules/dt-photoalbums/functions.php:50
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:267
+#: widgets/albums.php:227 widgets/catalog.php:180 widgets/logos.php:153
+#: widgets/ourteem.php:156 widgets/photos.php:182
+#: widgets/popular_posts.php:144 widgets/portfolio.php:184
+#: widgets/testimonials.php:120
+msgid "Order by title"
+msgstr "按标题排序"
+
+#: functions/core/includes/metabox-functions.php:631
+#: functions/modules/dt-photoalbums/functions.php:51
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:268
+#: widgets/albums.php:228 widgets/catalog.php:181 widgets/logos.php:154
+#: widgets/ourteem.php:157 widgets/photos.php:183
+#: widgets/popular_posts.php:145 widgets/portfolio.php:185
+#: widgets/testimonials.php:121
+msgid "Order by date"
+msgstr "按日期排序"
+
+#: functions/core/includes/metabox-functions.php:632
+#: functions/modules/dt-photoalbums/functions.php:52
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:269
+#: widgets/albums.php:229 widgets/catalog.php:182 widgets/logos.php:155
+#: widgets/ourteem.php:158 widgets/photos.php:184
+#: widgets/popular_posts.php:146 widgets/portfolio.php:186
+#: widgets/testimonials.php:122
+msgid "Order by modified"
+msgstr "按修改时间排序"
+
+#: functions/core/includes/metabox-functions.php:633
+#: functions/modules/dt-photoalbums/functions.php:53
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:270
+#: widgets/albums.php:230 widgets/catalog.php:183 widgets/logos.php:156
+#: widgets/ourteem.php:159 widgets/photos.php:185
+#: widgets/popular_posts.php:147 widgets/portfolio.php:187
+#: widgets/testimonials.php:123
+msgid "Order by rand"
+msgstr "随机"
+
+#: functions/core/includes/metabox-functions.php:637
+#: functions/modules/dt-photoalbums/functions.php:54
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:271
+#: widgets/albums.php:231 widgets/catalog.php:184 widgets/logos.php:157
+#: widgets/ourteem.php:160 widgets/photos.php:186
+#: widgets/popular_posts.php:148 widgets/portfolio.php:188
+#: widgets/testimonials.php:124
+msgid "Order by menu"
+msgstr "按菜单排序"
+
+#: functions/core/includes/metabox-functions.php:644
+#: functions/modules/dt-catalog/metaboxes.php:587
+#: functions/modules/dt-photoalbums/metaboxes.php:453
+#: functions/modules/dt-portfolio/metaboxes.php:580
+#: functions/modules/dt-slideshows/metaboxes.php:315 widgets/albums.php:297
+#: widgets/catalog.php:250 widgets/logos.php:219 widgets/ourteem.php:222
+#: widgets/photos.php:248 widgets/popular_posts.php:214
+#: widgets/portfolio.php:254 widgets/testimonials.php:186
+msgid "Ascending"
+msgstr "升序"
+
+#: functions/core/includes/metabox-functions.php:653
+#: functions/modules/dt-catalog/metaboxes.php:588
+#: functions/modules/dt-photoalbums/metaboxes.php:454
+#: functions/modules/dt-portfolio/metaboxes.php:581
+#: functions/modules/dt-slideshows/metaboxes.php:316 widgets/albums.php:300
+#: widgets/catalog.php:253 widgets/logos.php:222 widgets/ourteem.php:225
+#: widgets/photos.php:251 widgets/popular_posts.php:217
+#: widgets/portfolio.php:257 widgets/testimonials.php:189
+msgid "Descending"
+msgstr "降序"
+
+#: functions/core/includes/metabox-functions.php:847
+msgid "no pictures"
+msgstr "没有图片"
+
+#: functions/core/includes/metabox-functions.php:849
+msgid "1 picture"
+msgstr "1 个图片"
+
+#: functions/core/includes/metabox-functions.php:851
+#, php-format
+msgid "%d pictures"
+msgstr "%d 个图片"
+
+#: functions/core/includes/metabox-functions.php:872
+msgid "Categories: "
+msgstr "类别："
+
+#: functions/core/includes/metabox-functions.php:877
+msgid "Date: "
+msgstr "日期："
+
+#: functions/core/includes/metabox-functions.php:882
+msgid "Edit this item"
+msgstr "编辑此项目"
+
+#: functions/core/includes/metabox-functions.php:888
+msgid "Move this item to the Trash"
+msgstr "将此项目移到回收站"
+
+#: functions/core/includes/metabox-functions.php:890
+msgid "Trash"
+msgstr "回收站"
+
+#: functions/core/includes/metabox-functions.php:925
+msgid "Arrange by:"
+msgstr "排列方式："
+
+#: functions/core/includes/metabox-functions.php:926
+#: functions/core/includes/metabox-functions.php:950 widgets/albums.php:256
+#: widgets/catalog.php:209 widgets/logos.php:182 widgets/ourteem.php:185
+#: widgets/photos.php:211 widgets/popular_posts.php:175
+#: widgets/portfolio.php:213 widgets/testimonials.php:149
+msgid "Only"
+msgstr "只"
+
+#: functions/core/includes/metabox-functions.php:927
+#: functions/core/includes/metabox-functions.php:954
+msgid "All, except"
+msgstr "除了"
+
+#: functions/core/includes/metabox-functions.php:933
+msgid "Albums"
+msgstr "相册"
+
+#: functions/core/includes/metabox-functions.php:938
+#: functions/modules/dt-benefits/filters.php:17
+#: functions/modules/dt-benefits/setup.php:48
+#: functions/modules/dt-catalog/filters.php:104
+#: functions/modules/dt-catalog/setup.php:48
+#: functions/modules/dt-logos/filters.php:17
+#: functions/modules/dt-logos/setup.php:48
+#: functions/modules/dt-photoalbums/filters.php:83
+#: functions/modules/dt-photoalbums/setup.php:47
+#: functions/modules/dt-portfolio/filters.php:104
+#: functions/modules/dt-team/filters.php:17
+#: functions/modules/dt-team/setup.php:48
+#: functions/modules/dt-testimonials/filters.php:18
+#: functions/modules/dt-testimonials/setup.php:48
+#: functions/modules/dt-video/filters.php:18
+#: functions/modules/dt-video/setup.php:47
+msgid "Category"
+msgstr "类别"
+
+#: functions/core/includes/metabox-functions.php:1025
+msgid "You have:"
+msgstr "您有："
+
+#: functions/core/includes/metabox-functions.php:1040
+#, php-format
+msgid "%d categories"
+msgstr "%d 类别"
+
+#: functions/modules/dt-benefits/filters.php:7
+#: functions/modules/dt-catalog/filters.php:94
+#: functions/modules/dt-logos/filters.php:7
+#: functions/modules/dt-photoalbums/filters.php:72
+#: functions/modules/dt-portfolio/filters.php:94
+#: functions/modules/dt-slideshows/filters.php:114
+#: functions/modules/dt-team/filters.php:7
+#: functions/modules/dt-video/filters.php:8
+msgid "Thumbs"
+msgstr "缩略图"
+
+#: functions/modules/dt-benefits/setup.php:8
+#: functions/modules/dt-benefits/setup.php:9
+#: functions/modules/dt-benefits/setup.php:19
+msgid "Benefits"
+msgstr "权益"
+
+#: functions/modules/dt-benefits/setup.php:10
+#: functions/modules/dt-catalog/setup.php:10
+#: functions/modules/dt-logos/setup.php:10
+#: functions/modules/dt-photoalbums/setup.php:10
+#: functions/modules/dt-team/setup.php:10
+#: functions/modules/dt-testimonials/setup.php:10
+#: functions/modules/dt-video/setup.php:10
+#: functions/modules/dt-video/setup.php:11
+msgid "Add New"
+msgstr "添加"
+
+#: functions/modules/dt-benefits/setup.php:11
+#: functions/modules/dt-catalog/setup.php:11
+#: functions/modules/dt-logos/setup.php:11
+#: functions/modules/dt-testimonials/setup.php:11
+msgid "Add New Item"
+msgstr "添加新项"
+
+#: functions/modules/dt-benefits/setup.php:12
+#: functions/modules/dt-catalog/setup.php:12
+#: functions/modules/dt-logos/setup.php:12
+#: functions/modules/dt-testimonials/setup.php:12
+msgid "Edit Item"
+msgstr "编辑"
+
+#: functions/modules/dt-benefits/setup.php:13
+#: functions/modules/dt-catalog/setup.php:13
+#: functions/modules/dt-logos/setup.php:13
+#: functions/modules/dt-testimonials/setup.php:13
+msgid "New Item"
+msgstr "新项目"
+
+#: functions/modules/dt-benefits/setup.php:14
+#: functions/modules/dt-catalog/setup.php:14
+#: functions/modules/dt-logos/setup.php:14
+#: functions/modules/dt-testimonials/setup.php:14
+msgid "View Item"
+msgstr "查看"
+
+#: functions/modules/dt-benefits/setup.php:15
+#: functions/modules/dt-catalog/setup.php:15
+#: functions/modules/dt-logos/setup.php:15
+#: functions/modules/dt-testimonials/setup.php:15
+msgid "Search Items"
+msgstr "搜索"
+
+#: functions/modules/dt-benefits/setup.php:16
+#: functions/modules/dt-catalog/setup.php:16
+#: functions/modules/dt-logos/setup.php:16
+#: functions/modules/dt-testimonials/setup.php:16
+msgid "No items found"
+msgstr "没有找到"
+
+#: functions/modules/dt-benefits/setup.php:17
+#: functions/modules/dt-catalog/setup.php:17
+#: functions/modules/dt-logos/setup.php:17
+#: functions/modules/dt-testimonials/setup.php:17
+msgid "No items found in Trash"
+msgstr "回收站为空"
+
+#: functions/modules/dt-benefits/setup.php:47
+#: functions/modules/dt-benefits/setup.php:50
+#: functions/modules/dt-benefits/setup.php:57
+#: functions/modules/dt-catalog/setup.php:47
+#: functions/modules/dt-catalog/setup.php:50
+#: functions/modules/dt-catalog/setup.php:57
+#: functions/modules/dt-logos/setup.php:47
+#: functions/modules/dt-logos/setup.php:50
+#: functions/modules/dt-logos/setup.php:57
+#: functions/modules/dt-photoalbums/setup.php:46
+#: functions/modules/dt-photoalbums/setup.php:49
+#: functions/modules/dt-photoalbums/setup.php:56
+#: functions/modules/dt-team/setup.php:47
+#: functions/modules/dt-team/setup.php:50
+#: functions/modules/dt-team/setup.php:57
+#: functions/modules/dt-testimonials/setup.php:47
+#: functions/modules/dt-testimonials/setup.php:50
+#: functions/modules/dt-testimonials/setup.php:57
+#: functions/modules/dt-video/setup.php:46
+#: functions/modules/dt-video/setup.php:49
+#: functions/modules/dt-video/setup.php:56 widgets/categories.php:85
+msgid "Categories"
+msgstr "分类"
+
+#: functions/modules/dt-benefits/setup.php:49
+#: functions/modules/dt-catalog/setup.php:49
+#: functions/modules/dt-logos/setup.php:49
+#: functions/modules/dt-photoalbums/setup.php:48
+#: functions/modules/dt-team/setup.php:49
+#: functions/modules/dt-testimonials/setup.php:49
+#: functions/modules/dt-video/setup.php:48
+msgid "Search in Category"
+msgstr "在类别中搜索"
+
+#: functions/modules/dt-benefits/setup.php:51
+#: functions/modules/dt-catalog/setup.php:51
+#: functions/modules/dt-logos/setup.php:51
+#: functions/modules/dt-photoalbums/setup.php:50
+#: functions/modules/dt-team/setup.php:51
+#: functions/modules/dt-testimonials/setup.php:51
+#: functions/modules/dt-video/setup.php:50
+msgid "Parent Category"
+msgstr "父类"
+
+#: functions/modules/dt-benefits/setup.php:52
+#: functions/modules/dt-catalog/setup.php:52
+#: functions/modules/dt-logos/setup.php:52
+#: functions/modules/dt-photoalbums/setup.php:51
+#: functions/modules/dt-team/setup.php:52
+#: functions/modules/dt-testimonials/setup.php:52
+#: functions/modules/dt-video/setup.php:51
+msgid "Parent Category:"
+msgstr "父类："
+
+#: functions/modules/dt-benefits/setup.php:53
+#: functions/modules/dt-catalog/setup.php:53
+#: functions/modules/dt-logos/setup.php:53
+#: functions/modules/dt-photoalbums/setup.php:52
+#: functions/modules/dt-team/setup.php:53
+#: functions/modules/dt-testimonials/setup.php:53
+#: functions/modules/dt-video/setup.php:52
+msgid "Edit Category"
+msgstr "编辑分类"
+
+#: functions/modules/dt-benefits/setup.php:54
+#: functions/modules/dt-catalog/setup.php:54
+#: functions/modules/dt-logos/setup.php:54
+#: functions/modules/dt-photoalbums/setup.php:53
+#: functions/modules/dt-team/setup.php:54
+#: functions/modules/dt-testimonials/setup.php:54
+#: functions/modules/dt-video/setup.php:53
+msgid "Update Category"
+msgstr "更新类别"
+
+#: functions/modules/dt-benefits/setup.php:55
+#: functions/modules/dt-catalog/setup.php:55
+#: functions/modules/dt-logos/setup.php:55
+#: functions/modules/dt-photoalbums/setup.php:54
+#: functions/modules/dt-team/setup.php:55
+#: functions/modules/dt-testimonials/setup.php:55
+#: functions/modules/dt-video/setup.php:54
+msgid "Add New Category"
+msgstr "添加类别"
+
+#: functions/modules/dt-benefits/setup.php:56
+#: functions/modules/dt-catalog/setup.php:56
+#: functions/modules/dt-logos/setup.php:56
+#: functions/modules/dt-photoalbums/setup.php:55
+#: functions/modules/dt-team/setup.php:56
+#: functions/modules/dt-testimonials/setup.php:56
+#: functions/modules/dt-video/setup.php:55
+msgid "New Category Name"
+msgstr "新类别名称"
+
+#: functions/modules/dt-blog/metaboxes.php:21
+msgid "Post options"
+msgstr "文章选项"
+
+#: functions/modules/dt-blog/metaboxes.php:29
+msgid "Display Blog Category(s)"
+msgstr "显示 Blog 分类"
+
+#: functions/modules/dt-blog/metaboxes.php:38
+msgid "Blog options"
+msgstr "Blog 选项"
+
+#: functions/modules/dt-blog/metaboxes.php:47
+msgid "Sidebar options"
+msgstr "边栏选项"
+
+#: functions/modules/dt-blog/metaboxes.php:56
+msgid "Footer options"
+msgstr "页脚选项"
+
+#: functions/modules/dt-blog/metaboxes.php:95
+msgid "Add new post"
+msgstr "添加新文章"
+
+#: functions/modules/dt-blog/metaboxes.php:96
+msgid "Edit posts"
+msgstr "编辑文章"
+
+#: functions/modules/dt-blog/metaboxes.php:97
+msgid "Edit posts categories"
+msgstr "编辑文章类别"
+
+#: functions/modules/dt-blog/metaboxes.php:98
+msgid "Edit posts tags"
+msgstr "编辑文章标签"
+
+#: functions/modules/dt-blog/metaboxes.php:103
+msgid "ALL your Blog posts are being displayed on this page!"
+msgstr "你所有的 Blog 文章将被显示在这个页面！"
+
+#: functions/modules/dt-blog/metaboxes.php:104
+msgid "By default all your Blog posts will be displayed on this page. "
+msgstr "默认情况下，所有的 Blog 文章将显示在这个页面。"
+
+#: functions/modules/dt-blog/metaboxes.php:105
+msgid "But you can specify which Blog categories will (or will not) be shown."
+msgstr "但是你可以指定哪个博客类别将会(或不会)被显示。"
+
+#: functions/modules/dt-blog/metaboxes.php:106
+#: functions/modules/dt-catalog/metaboxes.php:118
+#: functions/modules/dt-photoalbums/metaboxes.php:269
+#: functions/modules/dt-photos/metaboxes.php:82
+#: functions/modules/dt-portfolio/metaboxes.php:110
+#: functions/modules/dt-slideshows/metaboxes.php:195
+#: functions/modules/dt-video/metaboxes.php:86
+msgid "In tabs above you can select from the following options:"
+msgstr "上面的标签可以选择以下选项："
+
+#: functions/modules/dt-blog/metaboxes.php:109
+msgid ""
+" &mdash; all Blog posts (from all categories) will be shown on this page."
+msgstr " &mdash; 所有 Blog 文章（所有类别）将显示在这个页面。"
+
+#: functions/modules/dt-blog/metaboxes.php:110
+msgid " &mdash; choose Blog category(s) to be shown on this page."
+msgstr " &mdash; 选择显示在这个页面的博客类别。"
+
+#: functions/modules/dt-blog/metaboxes.php:111
+msgid ""
+" &mdash; choose which category(s) will be excluded from displaying on this "
+"page."
+msgstr " &mdash; 选择哪些类别不在这个页面上显示。"
+
+#: functions/modules/dt-blog/metaboxes.php:114
+#, php-format
+msgid "%d posts"
+msgstr "%d 篇文章"
+
+#: functions/modules/dt-blog/metaboxes.php:183
+msgid "Number of posts to display on one page"
+msgstr "单个页面显示的文章数"
+
+#: functions/modules/dt-blog/metaboxes.php:186
+#: functions/modules/dt-catalog/metaboxes.php:211
+#: functions/modules/dt-photoalbums/metaboxes.php:129
+#: functions/modules/dt-photos/metaboxes.php:214
+#: functions/modules/dt-portfolio/metaboxes.php:240
+#: functions/modules/dt-video/metaboxes.php:208
+msgid "Ordering settings"
+msgstr "排序设置"
+
+#: functions/modules/dt-blog/metaboxes.php:245
+msgid "Hide featured image on the Post page"
+msgstr "在文章页面隐藏特色图像"
+
+#: functions/modules/dt-catalog/filters.php:32
+#: functions/modules/dt-photoalbums/filters.php:32
+#, php-format
+msgid "Images (%s)"
+msgstr " (%s)个图片"
+
+#: functions/modules/dt-catalog/filters.php:55
+#: functions/modules/dt-portfolio/filters.php:55
+msgid "Video link"
+msgstr "视频链接"
+
+#: functions/modules/dt-catalog/metaboxes.php:23
+msgid "Advanced options"
+msgstr "高级选项"
+
+#: functions/modules/dt-catalog/metaboxes.php:32
+msgid "Catalog Item Options"
+msgstr "目录选项"
+
+#: functions/modules/dt-catalog/metaboxes.php:41
+msgid "Related Catalog Items"
+msgstr "相关目录"
+
+#: functions/modules/dt-catalog/metaboxes.php:51
+msgid "Catalog Item Pictures (for slideshow)"
+msgstr "目录条目的图片（用作幻灯片）"
+
+#: functions/modules/dt-catalog/metaboxes.php:60
+msgid "Display Catalog Category(s):"
+msgstr "显示目录类别："
+
+#: functions/modules/dt-catalog/metaboxes.php:69
+msgid "Catalog Settings:"
+msgstr "目录设置："
+
+#: functions/modules/dt-catalog/metaboxes.php:108
+msgid "Add new catalog item"
+msgstr "添加新的目录"
+
+#: functions/modules/dt-catalog/metaboxes.php:109
+msgid "Edit catalog"
+msgstr "编辑目录"
+
+#: functions/modules/dt-catalog/metaboxes.php:110
+msgid "Edit catalog categories"
+msgstr "编辑目录分类"
+
+#: functions/modules/dt-catalog/metaboxes.php:115
+msgid "ALL your Catalog items are being displayed on this page!"
+msgstr "你所有的目录条目将被显示在这个页面！"
+
+#: functions/modules/dt-catalog/metaboxes.php:116
+msgid "By default all your Catalog items will be displayed on this page."
+msgstr "默认情况下，你所有的目录将显示在这个页面。"
+
+#: functions/modules/dt-catalog/metaboxes.php:117
+msgid ""
+"But you can specify which Catalog category(s) will (or will not) be shown."
+msgstr "但是，你可以指定哪个目录类别将会（或不会）被显示。"
+
+#: functions/modules/dt-catalog/metaboxes.php:121
+msgid " &mdash; all Catalog items will be shown on this page."
+msgstr " &mdash; 所有的目录将显示在这个页面。"
+
+#: functions/modules/dt-catalog/metaboxes.php:122
+msgid " &mdash; choose Catalog category(s) to be shown on this page."
+msgstr " &mdash; 选择在这个页面显示的目录类别。"
+
+#: functions/modules/dt-catalog/metaboxes.php:123
+msgid ""
+" &mdash; choose which Catalog category(s) will be excluded from displaying "
+"on this page."
+msgstr " &mdash; 选择哪个目录类别不在这个页面上显示。"
+
+#: functions/modules/dt-catalog/metaboxes.php:126
+#: functions/modules/dt-portfolio/metaboxes.php:118
+#, php-format
+msgid "%d items"
+msgstr "%d 项"
+
+#: functions/modules/dt-catalog/metaboxes.php:195
+#: functions/modules/dt-photoalbums/metaboxes.php:93
+#: functions/modules/dt-photos/metaboxes.php:182
+#: functions/modules/dt-portfolio/metaboxes.php:208
+#: functions/modules/dt-video/metaboxes.php:176
+msgid "on"
+msgstr "开"
+
+#: functions/modules/dt-catalog/metaboxes.php:196
+#: functions/modules/dt-photoalbums/metaboxes.php:94
+#: functions/modules/dt-photos/metaboxes.php:183
+#: functions/modules/dt-portfolio/metaboxes.php:209
+#: functions/modules/dt-video/metaboxes.php:177
+msgid "off"
+msgstr "关"
+
+#: functions/modules/dt-catalog/metaboxes.php:199
+msgid "Number of catalog items to display on one page"
+msgstr "单个页面显示的目录数量"
+
+#: functions/modules/dt-catalog/metaboxes.php:221
+#: functions/modules/dt-photoalbums/metaboxes.php:139
+#: functions/modules/dt-photos/metaboxes.php:224
+#: functions/modules/dt-portfolio/metaboxes.php:250
+#: functions/modules/dt-video/metaboxes.php:218
+msgid "+ Show"
+msgstr "+ 显示"
+
+#: functions/modules/dt-catalog/metaboxes.php:222
+#: functions/modules/dt-photoalbums/metaboxes.php:140
+#: functions/modules/dt-photos/metaboxes.php:225
+#: functions/modules/dt-portfolio/metaboxes.php:251
+#: functions/modules/dt-video/metaboxes.php:219
+msgid "- Hide"
+msgstr "- 隐藏"
+
+#: functions/modules/dt-catalog/metaboxes.php:223
+#: functions/modules/dt-photoalbums/metaboxes.php:141
+#: functions/modules/dt-photos/metaboxes.php:226
+#: functions/modules/dt-portfolio/metaboxes.php:252
+#: functions/modules/dt-video/metaboxes.php:220
+msgid "advanced settings"
+msgstr "高级设置"
+
+#: functions/modules/dt-catalog/metaboxes.php:227
+msgid "Show excerpts and details buttons"
+msgstr "显示摘录和细节按钮"
+
+#: functions/modules/dt-catalog/metaboxes.php:232
+#: functions/modules/dt-photoalbums/metaboxes.php:150
+#: functions/modules/dt-photos/metaboxes.php:230
+#: functions/modules/dt-portfolio/metaboxes.php:266
+#: functions/modules/dt-video/metaboxes.php:234
+msgid "Show all pages in paginator"
+msgstr "在分页处显示所有的页"
+
+#: functions/modules/dt-catalog/metaboxes.php:237
+#: functions/modules/dt-photoalbums/metaboxes.php:155
+#: functions/modules/dt-photos/metaboxes.php:235
+#: functions/modules/dt-portfolio/metaboxes.php:271
+#: functions/modules/dt-video/metaboxes.php:239
+msgid "Show categories filter"
+msgstr "显示类别过滤器"
+
+#: functions/modules/dt-catalog/metaboxes.php:310
+msgid " Hide featured image on the Catalog item page"
+msgstr "在目录页面隐藏特色图像"
+
+#: functions/modules/dt-catalog/metaboxes.php:316
+msgid " Hide Catalog Item Pictures (slideshow) on the Catalog item page"
+msgstr "在目录页面隐藏目录图片（幻灯片）"
+
+#: functions/modules/dt-catalog/metaboxes.php:369
+msgid " Item price"
+msgstr "价格"
+
+#: functions/modules/dt-catalog/metaboxes.php:379
+msgid "Purchase button link"
+msgstr "购买按钮链接"
+
+#: functions/modules/dt-catalog/metaboxes.php:447
+msgid " Show related Catalog items"
+msgstr "显示相关的目录"
+
+#: functions/modules/dt-catalog/metaboxes.php:455
+#: functions/modules/dt-portfolio/metaboxes.php:450
+msgid " From the same category"
+msgstr "从同一类别"
+
+#: functions/modules/dt-catalog/metaboxes.php:463
+#: functions/modules/dt-portfolio/metaboxes.php:458
+msgid " Choose category(s)"
+msgstr "选择类别"
+
+#: functions/modules/dt-catalog/metaboxes.php:582
+#: functions/modules/dt-photoalbums/metaboxes.php:448
+#: functions/modules/dt-portfolio/metaboxes.php:575
+#: functions/modules/dt-slideshows/metaboxes.php:310
+msgid "All Tabs:"
+msgstr "所有标签："
+
+#: functions/modules/dt-catalog/metaboxes.php:583
+#: functions/modules/dt-photoalbums/metaboxes.php:449
+#: functions/modules/dt-portfolio/metaboxes.php:576
+#: functions/modules/dt-slideshows/metaboxes.php:311
+msgid "Show"
+msgstr "显示"
+
+#: functions/modules/dt-catalog/metaboxes.php:584
+#: functions/modules/dt-photoalbums/metaboxes.php:450
+#: functions/modules/dt-portfolio/metaboxes.php:577
+#: functions/modules/dt-slideshows/metaboxes.php:312
+msgid "Hide"
+msgstr "隐藏"
+
+#: functions/modules/dt-catalog/metaboxes.php:586
+#: functions/modules/dt-photoalbums/metaboxes.php:452
+#: functions/modules/dt-portfolio/metaboxes.php:579
+#: functions/modules/dt-slideshows/metaboxes.php:314
+msgid "Sort Order:"
+msgstr "排列顺序："
+
+#: functions/modules/dt-catalog/metaboxes.php:596
+#: functions/modules/dt-photoalbums/metaboxes.php:462
+#: functions/modules/dt-portfolio/metaboxes.php:589
+#: functions/modules/dt-slideshows/metaboxes.php:324
+msgid "Media"
+msgstr "媒体"
+
+#: functions/modules/dt-catalog/metaboxes.php:597
+#: functions/modules/dt-photoalbums/metaboxes.php:463
+#: functions/modules/dt-portfolio/metaboxes.php:590
+#: functions/modules/dt-slideshows/metaboxes.php:325
+msgid "Order"
+msgstr "顺序"
+
+#: functions/modules/dt-catalog/metaboxes.php:598
+#: functions/modules/dt-photoalbums/metaboxes.php:464
+#: functions/modules/dt-portfolio/metaboxes.php:591
+#: functions/modules/dt-slideshows/metaboxes.php:326
+msgid "Actions"
+msgstr "动作"
+
+#: functions/modules/dt-catalog/metaboxes.php:609
+#: functions/modules/dt-photoalbums/metaboxes.php:475
+#: functions/modules/dt-portfolio/metaboxes.php:602
+#: functions/modules/dt-slideshows/metaboxes.php:337
+msgid "Save all changes"
+msgstr "保存所有更改"
+
+#: functions/modules/dt-catalog/setup.php:8
+#: functions/modules/dt-catalog/setup.php:9
+#: functions/modules/dt-catalog/setup.php:19 widgets/catalog.php:23
+msgid "Catalog"
+msgstr "目录"
+
+#: functions/modules/dt-logos/metaboxes.php:15
+msgid "Logos options"
+msgstr "Logo 选项"
+
+#: functions/modules/dt-logos/metaboxes.php:41
+msgid "Target link:"
+msgstr "目标链接："
+
+#: functions/modules/dt-logos/setup.php:8
+#: functions/modules/dt-logos/setup.php:19
+msgid "Partners, Clients, etc."
+msgstr "合作伙伴"
+
+#: functions/modules/dt-logos/setup.php:9
+msgid "Item"
+msgstr "合作伙伴"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:17
+msgid "Custom gallery options"
+msgstr "自定义相册选项"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:26
+#: plugins/options-framework/admin/options-medialibrary-uploader.php:290
+msgid "Gallery"
+msgstr "相册"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:35
+msgid "Display Albums:"
+msgstr "显示相册："
+
+#: functions/modules/dt-photoalbums/metaboxes.php:44
+msgid "Albums Settings"
+msgstr "相册设置"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:75
+#: functions/modules/dt-portfolio/metaboxes.php:190
+msgid "Two cols list"
+msgstr "两列列表"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:79
+#: functions/modules/dt-photos/metaboxes.php:172
+#: functions/modules/dt-portfolio/metaboxes.php:194
+#: functions/modules/dt-video/metaboxes.php:166
+msgid "Two cols grid"
+msgstr "两列网格"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:83
+#: functions/modules/dt-portfolio/metaboxes.php:198
+msgid "Three cols list"
+msgstr "三列列表"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:87
+#: functions/modules/dt-photos/metaboxes.php:176
+#: functions/modules/dt-portfolio/metaboxes.php:202
+#: functions/modules/dt-video/metaboxes.php:170
+msgid "Three cols grid"
+msgstr "三列网格"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:97
+msgid "Albums layout"
+msgstr "相册布局"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:123
+msgid "Number of photo albums to display on one page"
+msgstr "单个页面显示的相册数量"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:145
+#: functions/modules/dt-portfolio/metaboxes.php:256
+msgid "Show title and excerpt in grid layout"
+msgstr "网格布局显示标题和摘要"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:160
+#: functions/modules/dt-portfolio/metaboxes.php:276
+msgid "Show layout switcher"
+msgstr "显示布局切换器"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:259
+#: functions/modules/dt-photos/metaboxes.php:72
+msgid "Add new album"
+msgstr "添加新相册"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:260
+#: functions/modules/dt-photos/metaboxes.php:73
+msgid "Edit albums"
+msgstr "编辑相册"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:261
+#: functions/modules/dt-photos/metaboxes.php:74
+msgid "Edit albums categories"
+msgstr "编辑相册类别"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:266
+msgid "ALL your Photo albums are being displayed on this page!"
+msgstr "你所有的相册将被显示在这个页面！"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:267
+msgid "By default all your Photo albums will be displayed on this page. "
+msgstr "默认情况下，所有的相册将显示在这个页面。"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:268
+#: functions/modules/dt-photos/metaboxes.php:81
+msgid ""
+"But you can specify which Album(s) or Album category(s) will (or will not) "
+"be shown."
+msgstr "但是，你可以指定哪个相册或相册类别将会（或不会）被显示。"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:272
+msgid " &mdash; all Albums will be shown on this page."
+msgstr " &mdash; 所有的相册将会在本页显示。"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:273
+#: functions/modules/dt-photos/metaboxes.php:86
+msgid " &mdash; choose Album(s) or Album category(s) to be shown on this page."
+msgstr " &mdash; 选择在这个页面显示的相册或相册类别。"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:274
+#: functions/modules/dt-photos/metaboxes.php:87
+msgid ""
+" &mdash; choose which Album(s) or Album category(s) will be excluded from "
+"displaying on this page."
+msgstr "&mdash; 选择哪个相册或相册类别不在这个页面上显示。"
+
+#: functions/modules/dt-photoalbums/metaboxes.php:277
+#: functions/modules/dt-photos/metaboxes.php:90
+#: functions/modules/dt-video/metaboxes.php:94
+#, php-format
+msgid "%d albums"
+msgstr "%d 个相册"
+
+#: functions/modules/dt-photoalbums/setup.php:8
+#: functions/modules/dt-photoalbums/setup.php:19 widgets/albums.php:23
+msgid "Photo Albums"
+msgstr "相册"
+
+#: functions/modules/dt-photoalbums/setup.php:9
+msgid "Photo Album"
+msgstr "相册"
+
+#: functions/modules/dt-photoalbums/setup.php:11
+msgid "Add New Album"
+msgstr "添加新相册"
+
+#: functions/modules/dt-photoalbums/setup.php:12
+msgid "Edit Album"
+msgstr "编辑相册"
+
+#: functions/modules/dt-photoalbums/setup.php:13
+msgid "New Album"
+msgstr "新相册"
+
+#: functions/modules/dt-photoalbums/setup.php:14
+msgid "View Album"
+msgstr "查看相册"
+
+#: functions/modules/dt-photoalbums/setup.php:15
+msgid "Search for Albums"
+msgstr "搜索相册"
+
+#: functions/modules/dt-photoalbums/setup.php:16
+msgid "No Albums Found"
+msgstr "没有发现相册"
+
+#: functions/modules/dt-photoalbums/setup.php:17
+msgid "No Albums Found in Trash"
+msgstr "回收站为空"
+
+#: functions/modules/dt-photos/metaboxes.php:15
+msgid "Display Photos:"
+msgstr "显示图片："
+
+#: functions/modules/dt-photos/metaboxes.php:24
+msgid "Photos Settings:"
+msgstr "图片设置："
+
+#: functions/modules/dt-photos/metaboxes.php:79
+msgid "ALL Photos from all your Photo albums are being displayed on this page!"
+msgstr "你所有相册的图片将显示在这个页面！"
+
+#: functions/modules/dt-photos/metaboxes.php:80
+msgid "By default all your Photos will be displayed on this page. "
+msgstr "默认情况下，所有的图片将显示在这个页面。"
+
+#: functions/modules/dt-photos/metaboxes.php:85
+msgid " &mdash; all Photos from all Albums will be shown on this page."
+msgstr " &mdash; 所有相册的照片都将显示在这个页面。"
+
+#: functions/modules/dt-photos/metaboxes.php:186
+msgid "Photos layout"
+msgstr "图片布局"
+
+#: functions/modules/dt-photos/metaboxes.php:208
+msgid "Number of photos to display on one page"
+msgstr "单个页面显示的图片数量"
+
+#: functions/modules/dt-portfolio/filters.php:32
+#: functions/modules/dt-slideshows/filters.php:32
+#, php-format
+msgid "Slides (%s)"
+msgstr "(%s) 个幻灯片"
+
+#: functions/modules/dt-portfolio/metaboxes.php:22
+msgid "Project Options"
+msgstr "项目选项"
+
+#: functions/modules/dt-portfolio/metaboxes.php:41
+msgid "Project media (for slideshow)"
+msgstr "项目媒体（作为幻灯片）"
+
+#: functions/modules/dt-portfolio/metaboxes.php:50
+msgid "Display Portfolio Category(s):"
+msgstr "显示项目类别："
+
+#: functions/modules/dt-portfolio/metaboxes.php:59
+msgid "Portfolio Settings:"
+msgstr "项目设置："
+
+#: functions/modules/dt-portfolio/metaboxes.php:100
+msgid "Add new project"
+msgstr "新建项目"
+
+#: functions/modules/dt-portfolio/metaboxes.php:101
+msgid "Edit portfolio"
+msgstr "编辑项目"
+
+#: functions/modules/dt-portfolio/metaboxes.php:102
+msgid "Edit portfolio categories"
+msgstr "编辑项目类别"
+
+#: functions/modules/dt-portfolio/metaboxes.php:107
+msgid "ALL your Portfolio projects are being displayed on this page!"
+msgstr "你所有的项目将被显示在这个页面！"
+
+#: functions/modules/dt-portfolio/metaboxes.php:108
+msgid "By default all your Portfolio projects will be displayed on this page. "
+msgstr "默认情况下，你所有的项目将显示在这个页面。"
+
+#: functions/modules/dt-portfolio/metaboxes.php:109
+msgid ""
+"But you can specify which Portfolio project category(s) will (or will not) "
+"be shown."
+msgstr "但是，你可以指定哪个项目类别将会（或不会）被显示。"
+
+#: functions/modules/dt-portfolio/metaboxes.php:113
+msgid " &mdash; all Projects will be shown on this page."
+msgstr " &mdash; 所有的项目都将显示在这个页面。"
+
+#: functions/modules/dt-portfolio/metaboxes.php:114
+msgid " &mdash; choose Project category(s) to be shown on this page."
+msgstr " &mdash; 选择在这个页面显示的项目类别。"
+
+#: functions/modules/dt-portfolio/metaboxes.php:115
+msgid ""
+" &mdash; choose which Project category(s) will be excluded from displaying "
+"on this page."
+msgstr " &mdash; 选择项目类别不在这个页面上显示。"
+
+#: functions/modules/dt-portfolio/metaboxes.php:212
+msgid "Portfolio layout"
+msgstr "项目布局"
+
+#: functions/modules/dt-portfolio/metaboxes.php:234
+msgid "Number of portfolio projects to display on one page"
+msgstr "单个页面显示的项目数量"
+
+#: functions/modules/dt-portfolio/metaboxes.php:261
+msgid "Show \"Details\" button in grid layout"
+msgstr "网格布局显示 \"细节\"  按钮"
+
+#: functions/modules/dt-portfolio/metaboxes.php:364
+msgid " Hide featured image on the Project page"
+msgstr "在项目页面隐藏特色图"
+
+#: functions/modules/dt-portfolio/metaboxes.php:371
+msgid " Hide meta information (categories list) on the Project page"
+msgstr "在项目页面隐藏元信息（类别列表）"
+
+#: functions/modules/dt-portfolio/metaboxes.php:378
+msgid "Hide project media slider on the Project page"
+msgstr "在项目页面隐藏媒体幻灯片"
+
+#: functions/modules/dt-portfolio/metaboxes.php:442
+msgid " Show related projects"
+msgstr "显示相关项目"
+
+#: functions/modules/dt-portfolio/setup.php:8
+#: functions/modules/dt-portfolio/setup.php:19
+msgid "产品中心"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:9
+msgid "产品"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:10
+#: functions/modules/dt-slideshows/setup.php:10
+msgid "添加"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:11
+msgid "添加新产品"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:12
+#: functions/modules/dt-slideshows/setup.php:12
+msgid "编辑"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:13
+msgid "新产品"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:14
+#: functions/modules/dt-slideshows/setup.php:14
+msgid "查看"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:15
+#: functions/modules/dt-portfolio/setup.php:49
+#: functions/modules/dt-slideshows/setup.php:15
+msgid "搜索"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:16
+#: functions/modules/dt-slideshows/setup.php:16
+msgid "没有找到"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:17
+#: functions/modules/dt-slideshows/setup.php:17
+msgid "回收站为空"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:47
+#: functions/modules/dt-portfolio/setup.php:50
+#: functions/modules/dt-portfolio/setup.php:57
+msgid "分类目录"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:48
+msgid "类别"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:51
+msgid "父类"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:52
+msgid "父类："
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:53
+msgid "编辑类别"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:54
+msgid "更新类别"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:55
+msgid "添加新分类目录"
+msgstr ""
+
+#: functions/modules/dt-portfolio/setup.php:56
+msgid "新类别名称"
+msgstr ""
+
+#: functions/modules/dt-slideshows/filters.php:54
+msgid "Link"
+msgstr "链接"
+
+#: functions/modules/dt-slideshows/filters.php:63
+msgid "Hide slide description"
+msgstr "隐藏幻灯片描述"
+
+#: functions/modules/dt-slideshows/filters.php:70
+msgid "Open link in a new window"
+msgstr "在新的窗口打开链接"
+
+#: functions/modules/dt-slideshows/metaboxes.php:15
+msgid "Slides"
+msgstr "幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:24
+msgid "Slideshow Options"
+msgstr "幻灯片选项"
+
+#: functions/modules/dt-slideshows/metaboxes.php:33
+msgid "Display Slideshows"
+msgstr "显示幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:55
+msgid "Nivo Slider"
+msgstr "水平幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:59
+msgid "Photo Stack Slider"
+msgstr "照片堆叠幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:63
+msgid "Fancy Tile Slider"
+msgstr "绚丽砖块幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:67
+msgid "Carousel Slider"
+msgstr "旋转木马幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:80
+msgid "Choose slider"
+msgstr "选择幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:104
+msgid "Autoslide settings"
+msgstr "自动幻灯片设置"
+
+#: functions/modules/dt-slideshows/metaboxes.php:117
+msgid ""
+" milliseconds (1 second = 1000 milliseconds; to disable autoslide leave this "
+"field blank or set it to \"0\")"
+msgstr "毫秒（1秒= 1000毫秒；留空或者将它设置为 \"0\"禁用自动幻灯片）"
+
+#: functions/modules/dt-slideshows/metaboxes.php:183
+msgid "Add new slideshow"
+msgstr "添加新幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:184
+msgid "Edit slideshows"
+msgstr "编辑幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:192
+msgid "ALL your Slideshows are being displayed on this page!"
+msgstr "你所有的幻灯片将被显示在这个页面！"
+
+#: functions/modules/dt-slideshows/metaboxes.php:193
+msgid "By default all your Slideshows will be displayed on this page. "
+msgstr "默认情况下，所有你的幻灯片将显示在这个页面。"
+
+#: functions/modules/dt-slideshows/metaboxes.php:194
+msgid "But you can specify which Slideshows will (or will not) be shown."
+msgstr "但是，你可以指定哪个幻灯片会（或不会）被显示。"
+
+#: functions/modules/dt-slideshows/metaboxes.php:198
+msgid " &mdash; all Slideshows will be shown on this page."
+msgstr " &mdash; 所有幻灯片会在本页显示。"
+
+#: functions/modules/dt-slideshows/metaboxes.php:199
+msgid " &mdash; choose Slideshow(s) to be shown on this page."
+msgstr " &mdash; 选择在这个页面显示的幻灯片。"
+
+#: functions/modules/dt-slideshows/metaboxes.php:200
+msgid ""
+" &mdash; choose which Slideshow(s) will be excluded from displaying on this "
+"page."
+msgstr " &mdash; 选择不在这个页面上显示的幻灯片。"
+
+#: functions/modules/dt-slideshows/metaboxes.php:203
+#, php-format
+msgid "%d slideshows"
+msgstr "%d 个幻灯片"
+
+#: functions/modules/dt-slideshows/metaboxes.php:204
+#, php-format
+msgid "%d slides total"
+msgstr "总共 %d 个幻灯片"
+
+#: functions/modules/dt-slideshows/setup.php:8
+#: functions/modules/dt-slideshows/setup.php:9
+#: functions/modules/dt-slideshows/setup.php:19
+msgid "幻灯片"
+msgstr ""
+
+#: functions/modules/dt-slideshows/setup.php:11
+msgid "添加新幻灯片"
+msgstr ""
+
+#: functions/modules/dt-slideshows/setup.php:13
+msgid "新幻灯片"
+msgstr ""
+
+#: functions/modules/dt-team/metaboxes.php:15
+msgid "Teammate"
+msgstr "团队成员"
+
+#: functions/modules/dt-team/metaboxes.php:44
+msgid "Position"
+msgstr "职位"
+
+#: functions/modules/dt-team/metaboxes.php:52
+msgid "Age"
+msgstr "年龄"
+
+#: functions/modules/dt-team/setup.php:8 functions/modules/dt-team/setup.php:9
+#: functions/modules/dt-team/setup.php:19
+msgid "Team"
+msgstr "团队"
+
+#: functions/modules/dt-team/setup.php:11
+msgid "Add New Teammate"
+msgstr "添加新成员"
+
+#: functions/modules/dt-team/setup.php:12
+msgid "Edit Teammate"
+msgstr "编辑成员"
+
+#: functions/modules/dt-team/setup.php:13
+msgid "New Teammate"
+msgstr "新成员"
+
+#: functions/modules/dt-team/setup.php:14
+msgid "View Teammate"
+msgstr "查看成员"
+
+#: functions/modules/dt-team/setup.php:15
+msgid "Search Teammates"
+msgstr "搜索成员"
+
+#: functions/modules/dt-team/setup.php:16
+msgid "No teammates found"
+msgstr "没有找到成员"
+
+#: functions/modules/dt-team/setup.php:17
+msgid "No Teammates found in Trash"
+msgstr "回收站为空"
+
+#: functions/modules/dt-testimonials/metaboxes.php:15
+#: functions/modules/dt-testimonials/metaboxes.php:43
+msgid "Author"
+msgstr "作者"
+
+#: functions/modules/dt-testimonials/setup.php:8
+#: functions/modules/dt-testimonials/setup.php:9
+#: functions/modules/dt-testimonials/setup.php:19 widgets/testimonials.php:22
+msgid "Testimonials"
+msgstr "客户评价"
+
+#: functions/modules/dt-video/metaboxes.php:17
+msgid "Video options"
+msgstr "视频选项"
+
+#: functions/modules/dt-video/metaboxes.php:26
+msgid "Display Video Category(s):"
+msgstr "显示视频类别："
+
+#: functions/modules/dt-video/metaboxes.php:35
+msgid "Video Gallery Settings:"
+msgstr "视频设置："
+
+#: functions/modules/dt-video/metaboxes.php:76
+msgid "Add new video"
+msgstr "添加新视频"
+
+#: functions/modules/dt-video/metaboxes.php:77
+msgid "Edit video gallery"
+msgstr "编辑视频"
+
+#: functions/modules/dt-video/metaboxes.php:78
+msgid "Edit video categories"
+msgstr "编辑视频类别"
+
+#: functions/modules/dt-video/metaboxes.php:83
+msgid "ALL your Videos are being displayed on this page!"
+msgstr "你所有的视频都将被显示在这个页面！"
+
+#: functions/modules/dt-video/metaboxes.php:84
+msgid "By default all your Videos will be displayed on this page. "
+msgstr "默认情况下，所有你的视频将显示在这个页面。"
+
+#: functions/modules/dt-video/metaboxes.php:85
+msgid ""
+"But you can specify which Video category(s) will (or will not) be shown."
+msgstr "但是，你可以指定哪个视频类别将会（或不会）被显示。"
+
+#: functions/modules/dt-video/metaboxes.php:89
+msgid " &mdash; all Videos will be shown on this page."
+msgstr " &mdash; 所有的视频将被显示在这个页面。"
+
+#: functions/modules/dt-video/metaboxes.php:90
+msgid " &mdash; choose Video category(s) to be shown on this page."
+msgstr " &mdash; 选择显示在这个页面的视频类别。"
+
+#: functions/modules/dt-video/metaboxes.php:91
+msgid ""
+" &mdash; choose which Video category(s) will be excluded from displaying on "
+"this page."
+msgstr " &mdash; 选择哪些视频类别不在这个页面上显示。"
+
+#: functions/modules/dt-video/metaboxes.php:180
+msgid "Video layout"
+msgstr "视频布局"
+
+#: functions/modules/dt-video/metaboxes.php:202
+msgid "Number of videos to display on one page"
+msgstr "单个页面显示的视频数量"
+
+#: functions/modules/dt-video/metaboxes.php:224
+msgid "Show title and excerpt"
+msgstr "显示标题和摘录"
+
+#: functions/modules/dt-video/metaboxes.php:330
+msgid "Video link:"
+msgstr "视频链接："
+
+#: functions/modules/dt-video/metaboxes.php:345
+msgid " Set video HEIGHT"
+msgstr "设置视频高度"
+
+#: functions/modules/dt-video/metaboxes.php:354
+msgid " Set video WIDTH"
+msgstr "设置视频宽度"
+
+#: functions/modules/dt-video/setup.php:8
+#: functions/modules/dt-video/setup.php:9
+#: functions/modules/dt-video/setup.php:19
+msgid "Video"
+msgstr "视频"
+
+#: functions/modules/dt-video/setup.php:13
+msgid "New"
+msgstr "添加"
+
+#: functions/modules/dt-video/setup.php:14
+msgid "View"
+msgstr "查看"
+
+#: functions/modules/dt-video/setup.php:15
+msgid "Search"
+msgstr "搜索"
+
+#: functions/modules/dt-video/setup.php:16
+msgid "No Items Found"
+msgstr "没有找到"
+
+#: functions/modules/dt-video/setup.php:17
+msgid "No Items Found in Trash"
+msgstr "回收站为空"
+
+#: functions/options/options-backgrounds.php:8
+#: functions/options/options-fonts.php:119
+msgid "内容区域"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:10
+msgid "主要背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:15
+#: functions/options/options-backgrounds.php:161
+#: functions/options/options-backgrounds.php:309
+#: functions/options/options-backgrounds.php:333
+#: functions/options/options-backgrounds.php:550
+#: functions/options/options-backgrounds.php:675
+#: functions/options/options-backgrounds.php:699
+msgid "背景颜色"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:24
+#: functions/options/options-backgrounds.php:187
+#: functions/options/options-backgrounds.php:248
+#: functions/options/options-backgrounds.php:353
+#: functions/options/options-backgrounds.php:493
+#: functions/options/options-backgrounds.php:558
+#: functions/options/options-backgrounds.php:719
+msgid "选择背景图片"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:34
+msgid "... 使用上传的图片"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:51
+#: functions/options/options-backgrounds.php:212
+#: functions/options/options-backgrounds.php:273
+#: functions/options/options-backgrounds.php:378
+#: functions/options/options-backgrounds.php:518
+#: functions/options/options-backgrounds.php:583
+#: functions/options/options-backgrounds.php:744
+msgid "Repeat"
+msgstr "重复"
+
+#: functions/options/options-backgrounds.php:62
+#: functions/options/options-backgrounds.php:223
+#: functions/options/options-backgrounds.php:284
+#: functions/options/options-backgrounds.php:389
+#: functions/options/options-backgrounds.php:529
+#: functions/options/options-backgrounds.php:594
+#: functions/options/options-backgrounds.php:755
+msgid "垂直位置"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:73
+#: functions/options/options-backgrounds.php:234
+#: functions/options/options-backgrounds.php:295
+#: functions/options/options-backgrounds.php:400
+#: functions/options/options-backgrounds.php:605
+#: functions/options/options-backgrounds.php:766
+msgid "水平位置"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:84
+msgid "固定背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:101
+msgid "Choose thick divider"
+msgstr "选择厚分隔物"
+
+#: functions/options/options-backgrounds.php:108
+msgid "Choose thin divider"
+msgstr "选择薄分隔物"
+
+#: functions/options/options-backgrounds.php:133
+msgid "... or upload your own image"
+msgstr "… 或者上传自定义图片"
+
+#: functions/options/options-backgrounds.php:148
+#: functions/options/options-backgrounds.php:662
+msgid "Repeat-x"
+msgstr "重复-x方向"
+
+#: functions/options/options-backgrounds.php:157
+msgid "小工具/短代码 背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:169
+#: functions/options/options-backgrounds.php:317
+#: functions/options/options-backgrounds.php:341
+#: functions/options/options-backgrounds.php:683
+#: functions/options/options-backgrounds.php:707
+msgid "背景透明度"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:181
+msgid "Headers"
+msgstr "头部"
+
+#: functions/options/options-backgrounds.php:183
+msgid "首页头部"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:196
+#: functions/options/options-backgrounds.php:257
+#: functions/options/options-backgrounds.php:362
+#: functions/options/options-backgrounds.php:502
+#: functions/options/options-backgrounds.php:567
+#: functions/options/options-backgrounds.php:647
+#: functions/options/options-backgrounds.php:728
+msgid "...使用上传的图片"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:244
+msgid "内容页头部"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:305
+msgid "Background under contact block"
+msgstr "底部接触区域背景"
+
+#: functions/options/options-backgrounds.php:329
+msgid "顶行背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:413
+msgid "Parallax"
+msgstr "视差"
+
+#: functions/options/options-backgrounds.php:415
+msgid "鼠标响应视差背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:419
+msgid "开启"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:430
+msgid "动画"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:440
+msgid "显示"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:450
+msgid "视差背景粘住"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:463
+msgid "第一级"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:469
+msgid "第二级"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:475
+msgid "第三级"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:481
+msgid "第四级"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:544
+msgid "Footer"
+msgstr "页脚"
+
+#: functions/options/options-backgrounds.php:546
+msgid "页脚背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:615
+msgid "选择装饰线"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:626
+msgid "选择分隔物"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:671
+msgid "页脚小工具背景"
+msgstr ""
+
+#: functions/options/options-backgrounds.php:695
+msgid "底行背景"
+msgstr ""
+
+#: functions/options/options-fonts.php:7
+msgid "字体"
+msgstr ""
+
+#: functions/options/options-fonts.php:9
+msgid "基本字体类型"
+msgstr ""
+
+#: functions/options/options-fonts.php:13
+msgid "选择字体"
+msgstr ""
+
+#: functions/options/options-fonts.php:59
+msgid "主菜单和按钮"
+msgstr ""
+
+#: functions/options/options-fonts.php:63
+msgid "链接颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:71
+msgid "活动链接颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:79
+msgid "顶行"
+msgstr ""
+
+#: functions/options/options-fonts.php:83
+#: functions/options/options-fonts.php:103
+#: functions/options/options-fonts.php:195
+msgid "文本颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:91
+#: functions/options/options-fonts.php:111
+#: functions/options/options-fonts.php:203
+msgid "文本阴影"
+msgstr ""
+
+#: functions/options/options-fonts.php:99
+msgid "头部联系信息"
+msgstr ""
+
+#: functions/options/options-fonts.php:123
+#: functions/options/options-fonts.php:159
+msgid "主要文本颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:131
+#: functions/options/options-fonts.php:167
+msgid "主要文本阴影"
+msgstr ""
+
+#: functions/options/options-fonts.php:139
+#: functions/options/options-fonts.php:175
+msgid "次要文本颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:147
+#: functions/options/options-fonts.php:183
+msgid "次要文本阴影"
+msgstr ""
+
+#: functions/options/options-fonts.php:155
+msgid "页脚"
+msgstr ""
+
+#: functions/options/options-fonts.php:191
+msgid "底行"
+msgstr ""
+
+#: functions/options/options-fonts.php:211
+msgid "标题 (h1-h6) 字体"
+msgstr ""
+
+#: functions/options/options-fonts.php:215
+msgid "启用 cufon"
+msgstr ""
+
+#: functions/options/options-fonts.php:223
+msgid "选择 cufon 字体"
+msgstr ""
+
+#: functions/options/options-fonts.php:233
+msgid "...使用上传的 cufon 字体"
+msgstr ""
+
+#: functions/options/options-fonts.php:268
+msgid "标题大小"
+msgstr ""
+
+#: functions/options/options-fonts.php:292
+msgid "内容区域标题颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:296
+#: functions/options/options-fonts.php:324
+msgid "文本梯度:顶层颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:304
+#: functions/options/options-fonts.php:332
+msgid "文本梯度:底层颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:312
+#: functions/options/options-fonts.php:340
+msgid "文本阴影颜色"
+msgstr ""
+
+#: functions/options/options-fonts.php:320
+msgid "页脚标题颜色"
+msgstr ""
+
+#: functions/options/options-mainpage.php:8
+msgid "品牌"
+msgstr ""
+
+#: functions/options/options-mainpage.php:10
+msgid "头部 Logo"
+msgstr ""
+
+#: functions/options/options-mainpage.php:24
+#: functions/options/options-mainpage.php:48
+msgid "Logo 位置"
+msgstr ""
+
+#: functions/options/options-mainpage.php:34
+msgid "页脚 Logo"
+msgstr ""
+
+#: functions/options/options-mainpage.php:58
+msgid "网站图标"
+msgstr ""
+
+#: functions/options/options-mainpage.php:65
+msgid "版权 & 技术支持"
+msgstr ""
+
+#: functions/options/options-mainpage.php:69
+msgid "版权信息"
+msgstr ""
+
+#: functions/options/options-mainpage.php:77
+msgid "技术支持"
+msgstr ""
+
+#: functions/options/options-mainpage.php:93
+msgid "Misc"
+msgstr "杂项"
+
+#: functions/options/options-mainpage.php:95
+#: functions/options/options-mainpage.php:99
+msgid "头部显示联系信息"
+msgstr ""
+
+#: functions/options/options-mainpage.php:109
+msgid "地址"
+msgstr ""
+
+#: functions/options/options-mainpage.php:113
+msgid "电话"
+msgstr ""
+
+#: functions/options/options-mainpage.php:117
+msgid "Email"
+msgstr "Email"
+
+#: functions/options/options-mainpage.php:121
+msgid "Skype"
+msgstr "Skype"
+
+#: functions/options/options-mainpage.php:144
+msgid "显示 下一个/上一个 链接"
+msgstr ""
+
+#: functions/options/options-mainpage.php:149
+msgid "文章页面"
+msgstr ""
+
+#: functions/options/options-mainpage.php:158
+msgid "产品页面"
+msgstr ""
+
+#: functions/options/options-mainpage.php:166
+msgid "顶行搜索表单"
+msgstr ""
+
+#: functions/options/options-mainpage.php:171
+msgid "显示搜索表单"
+msgstr ""
+
+#: functions/options/options-mainpage.php:179
+msgid "文章选项"
+msgstr ""
+
+#: functions/options/options-mainpage.php:184
+msgid "文章页显示作者信息"
+msgstr ""
+
+#: functions/options/options-mainpage.php:192
+msgid "父菜单可点击"
+msgstr ""
+
+#: functions/options/options-mainpage.php:197
+msgid "启用"
+msgstr ""
+
+#: functions/options/options-mainpage.php:205
+msgid "谷歌分析"
+msgstr ""
+
+#: functions/options/options-mainpage.php:209
+msgid "谷歌分析代码"
+msgstr ""
+
+#: functions/options/options-presets.php:5
+msgid "皮肤"
+msgstr ""
+
+#: functions/options/options-presets.php:7
+msgid "选择一套皮肤"
+msgstr ""
+
+#: functions/options/options-socials.php:7
+#: functions/options/options-socials.php:9
+msgid "社交工具"
+msgstr ""
+
+#: functions/options/options-widgetareas.php:6
+#: functions/options/options-widgetareas.php:8
+msgid "小工具区"
+msgstr ""
+
+#: functions/options/options-widgetareas.php:18
+msgid "Sidebar primary widget area"
+msgstr "边栏主要小工具区"
+
+#: functions/options/options-widgetareas.php:22
+msgid "Footer primary widget area"
+msgstr "页脚主要小工具区"
+
+#: functions/options/options-widgetareas.php:26
+msgid "Single post page sidebar"
+msgstr "文章页面侧边栏"
+
+#: functions/options/options-widgetareas.php:30
+msgid "Single catalog item page sidebar"
+msgstr "Catalog文章侧边栏"
+
+#: functions/options/options-widgetareas.php:34
+msgid "Single post page footer"
+msgstr "文章页脚"
+
+#: functions/options/options-widgetareas.php:38
+msgid "Single catalog item page footer"
+msgstr "Catalog文章页脚"
+
+#: functions/options/options-widgetareas.php:42
+msgid "Single portfolio project page footer"
+msgstr "Portfolio文章页脚"
+
+#: functions/options/options.php:39
+msgid "repeat"
+msgstr "平铺"
+
+#: functions/options/options.php:40 functions/options/options.php:46
+msgid "repeat-x"
+msgstr "平铺-x方向"
+
+#: functions/options/options.php:41
+msgid "repeat-y"
+msgstr "平铺-y方向"
+
+#: functions/options/options.php:42 functions/options/options.php:45
+msgid "no-repeat"
+msgstr "不平铺"
+
+#: functions/options/options.php:49 functions/options/options.php:54
+msgid "center"
+msgstr "居中"
+
+#: functions/options/options.php:50
+msgid "top"
+msgstr "上"
+
+#: functions/options/options.php:51
+msgid "bottom"
+msgstr "下"
+
+#: functions/options/options.php:55
+msgid "left"
+msgstr "左"
+
+#: functions/options/options.php:56
+msgid "right"
+msgstr "右"
+
+#: functions/options/options.php:59
+msgid "blue"
+msgstr "蓝色"
+
+#: functions/options/options.php:60
+msgid "green"
+msgstr "绿色"
+
+#: functions/options/options.php:61
+msgid "orange"
+msgstr "橙色"
+
+#: functions/options/options.php:62
+msgid "purple"
+msgstr "紫色"
+
+#: functions/options/options.php:63
+msgid "yellow"
+msgstr "黄色"
+
+#: functions/options/options.php:64
+msgid "pink"
+msgstr "粉色"
+
+#: functions/options/options.php:65
+msgid "white"
+msgstr "白色"
+
+#: functions/options/options.php:68
+msgid "on every page"
+msgstr "每页"
+
+#: functions/options/options.php:69
+msgid "front page only"
+msgstr "只有首页"
+
+#: functions/options/options.php:70
+msgid "everywhere except front page"
+msgstr "除了首页"
+
+#: functions/options/options.php:71 functions/options/options.php:77
+msgid "nowhere"
+msgstr "无"
+
+#: functions/options/options.php:74
+msgid "everywhere"
+msgstr "所有"
+
+#: functions/options/options.php:75
+msgid "only on homepage templates"
+msgstr "只有首页模板"
+
+#: functions/options/options.php:76
+msgid "everywhere except homepage templates"
+msgstr "除了首页模板"
+
+#: plugins/captcha/dt_captcha.php:125
+msgid "null"
+msgstr "null"
+
+#: plugins/captcha/dt_captcha.php:126
+msgid "one"
+msgstr "一"
+
+#: plugins/captcha/dt_captcha.php:127
+msgid "two"
+msgstr "二"
+
+#: plugins/captcha/dt_captcha.php:128
+msgid "three"
+msgstr "三"
+
+#: plugins/captcha/dt_captcha.php:129
+msgid "four"
+msgstr "四"
+
+#: plugins/captcha/dt_captcha.php:130
+msgid "five"
+msgstr "五"
+
+#: plugins/captcha/dt_captcha.php:131
+msgid "six"
+msgstr "六"
+
+#: plugins/captcha/dt_captcha.php:132
+msgid "seven"
+msgstr "七"
+
+#: plugins/captcha/dt_captcha.php:133
+msgid "eight"
+msgstr "八"
+
+#: plugins/captcha/dt_captcha.php:134
+msgid "nine"
+msgstr "九"
+
+#: plugins/captcha/dt_captcha.php:137
+msgid "eleven"
+msgstr "十一"
+
+#: plugins/captcha/dt_captcha.php:138
+msgid "twelve"
+msgstr "十二"
+
+#: plugins/captcha/dt_captcha.php:139
+msgid "thirteen"
+msgstr "十三"
+
+#: plugins/captcha/dt_captcha.php:140
+msgid "fourteen"
+msgstr "十四"
+
+#: plugins/captcha/dt_captcha.php:141
+msgid "fifteen"
+msgstr "十五"
+
+#: plugins/captcha/dt_captcha.php:142
+msgid "sixteen"
+msgstr "十六"
+
+#: plugins/captcha/dt_captcha.php:143
+msgid "seventeen"
+msgstr "十七"
+
+#: plugins/captcha/dt_captcha.php:144
+msgid "eighteen"
+msgstr "十八"
+
+#: plugins/captcha/dt_captcha.php:145
+msgid "nineteen"
+msgstr "十九"
+
+#: plugins/captcha/dt_captcha.php:148
+msgid "ten"
+msgstr "十"
+
+#: plugins/captcha/dt_captcha.php:149
+msgid "twenty"
+msgstr "二十"
+
+#: plugins/captcha/dt_captcha.php:150
+msgid "thirty"
+msgstr "三十"
+
+#: plugins/captcha/dt_captcha.php:151
+msgid "forty"
+msgstr "四十"
+
+#: plugins/captcha/dt_captcha.php:152
+msgid "fifty"
+msgstr "五十"
+
+#: plugins/captcha/dt_captcha.php:153
+msgid "sixty"
+msgstr "六十"
+
+#: plugins/captcha/dt_captcha.php:154
+msgid "seventy"
+msgstr "七十"
+
+#: plugins/captcha/dt_captcha.php:155
+msgid "eighty"
+msgstr "八十"
+
+#: plugins/captcha/dt_captcha.php:156
+msgid "ninety"
+msgstr "九十"
+
+#: plugins/captcha/dt_captcha.php:247
+msgid "and"
+msgstr "and"
+
+#: plugins/captcha/dt_captcha.php:349
+msgid "Nonce do not match"
+msgstr "随机数不匹配"
+
+#: plugins/captcha/dt_captcha.php:351
+msgid "Captcha filled incorrectly"
+msgstr "验证码填写不正确"
+
+#: plugins/captcha/dt_captcha.php:353
+msgid "Fill the captcha"
+msgstr "请填写验证码"
+
+#: plugins/captcha/dt_captcha.php:387
+msgid "Feedback has been sent to the administrator"
+msgstr "您的留言已经发送给管理员"
+
+#: plugins/captcha/dt_captcha.php:389
+msgid "The message has not been sent"
+msgstr "该消息还没有被发送"
+
+#: plugins/captcha/dt_captcha.php:394
+msgid "Sorry, we suspect that you are bot"
+msgstr "很抱歉，我们怀疑你是机器人"
+
+#: plugins/captcha/options/options.php:7
+msgid "验证码设置"
+msgstr ""
+
+#: plugins/captcha/options/options.php:10
+msgid "启用验证码:"
+msgstr ""
+
+#: plugins/captcha/options/options.php:15
+msgid "注册用户不显示"
+msgstr ""
+
+#: plugins/captcha/options/options.php:43
+msgid "验证码算术操作:"
+msgstr ""
+
+#: plugins/captcha/options/options.php:55
+msgid "减 (-)"
+msgstr ""
+
+#: plugins/captcha/options/options.php:62
+msgid "乘 (x)"
+msgstr ""
+
+#: plugins/captcha/options/options.php:70
+msgid "困难验证码:"
+msgstr ""
+
+#: plugins/captcha/options/options.php:75
+msgid "数字"
+msgstr ""
+
+#: plugins/captcha/options/options.php:82
+msgid "文字"
+msgstr ""
+
+#: plugins/options-framework/admin/options-framework.php:278
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "单击“确定”复位。任何主题设置都将丢失！"
+
+#: plugins/options-framework/admin/options-framework.php:310
+msgid "Default options restored."
+msgstr "恢复默认选项。"
+
+#: plugins/options-framework/admin/options-framework.php:409
+msgid "Options saved."
+msgstr "选项已保存。"
+
+#: plugins/options-framework/admin/options-framework.php:504
+msgid "Theme options"
+msgstr "主题选项"
+
+#: plugins/options-framework/admin/options-functions.php:17
+msgid "no fonts"
+msgstr "没有字体"
+
+#: plugins/options-framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr "选择框架内部容器"
+
+#: plugins/options-framework/admin/options-medialibrary-uploader.php:126
+msgid "Upload"
+msgstr "上载"
+
+#: plugins/options-framework/admin/options-medialibrary-uploader.php:153
+msgid "View File"
+msgstr "查看文件"
+
+#: plugins/options-framework/admin/options-medialibrary-uploader.php:290
+msgid "Previously Uploaded"
+msgstr "上传之前"
+
+#: plugins/paginator/wp-pagenavi.php:25
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+
+#: plugins/paginator/wp-pagenavi.php:28
+msgid "First"
+msgstr "First"
+
+#: plugins/paginator/wp-pagenavi.php:29
+msgid "Last"
+msgstr "Last"
+
+#: plugins/shortcodes/shortcodekid/helpers_alpha.php:175
+msgid "Edit category slug"
+msgstr "编辑分类别名"
+
+#: plugins/shortcodes/shortcodekid/admin/shortcodekid-admin.php:23
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: plugins/shortcodes/shortcodekid/includes/slider/functions.php:19
+#: widgets/slider.php:178
+msgid "Select a slider:"
+msgstr "选择一个幻灯片："
+
+#: plugins/shortcodes/shortcodekid/includes/slider/functions.php:33
+#: widgets/slider.php:203
+msgid "There is no sliders"
+msgstr "没有幻灯片"
+
+#: widgets/albums.php:18
+msgid "A widget with albums"
+msgstr "相册小工具"
+
+#: widgets/albums.php:236 widgets/catalog.php:189 widgets/categories.php:102
+#: widgets/custom_menu.php:78 widgets/get_in_touch.php:95
+#: widgets/logos.php:162 widgets/ourteem.php:165 widgets/photos.php:191
+#: widgets/popular_posts.php:154 widgets/portfolio.php:193
+#: widgets/recent_photos.php:127 widgets/recent_posts.php:23
+#: widgets/slider.php:174 widgets/testimonials.php:129
+#: widgets/text_and_photo.php:81
+msgid "Title:"
+msgstr "标题："
+
+#: widgets/albums.php:240
+msgid "Show Albums from following categories:"
+msgstr "显示以下类别相册："
+
+#: widgets/albums.php:257 widgets/catalog.php:210 widgets/logos.php:183
+#: widgets/ourteem.php:186 widgets/photos.php:212
+#: widgets/popular_posts.php:176 widgets/portfolio.php:214
+#: widgets/testimonials.php:150
+msgid "Except"
+msgstr "除了"
+
+#: widgets/albums.php:277 widgets/catalog.php:230 widgets/photos.php:232
+#: widgets/portfolio.php:234 widgets/testimonials.php:170
+msgid "There is no catehories"
+msgstr "没有类别"
+
+#: widgets/albums.php:283
+msgid "Show hoovering description:"
+msgstr "显示悬停描述："
+
+#: widgets/albums.php:287 widgets/logos.php:209 widgets/ourteem.php:212
+#: widgets/photos.php:238 widgets/popular_posts.php:203
+#: widgets/portfolio.php:244 widgets/recent_photos.php:132
+#: widgets/testimonials.php:176
+msgid "Show:"
+msgstr "显示："
+
+#: widgets/albums.php:295 widgets/catalog.php:248 widgets/logos.php:217
+#: widgets/ourteem.php:220 widgets/photos.php:246
+#: widgets/popular_posts.php:212 widgets/portfolio.php:252
+#: widgets/testimonials.php:184
+msgid "Sort by:"
+msgstr "排序方式："
+
+#: widgets/albums.php:304 widgets/catalog.php:257 widgets/logos.php:226
+#: widgets/ourteem.php:229 widgets/photos.php:255
+#: widgets/popular_posts.php:222 widgets/portfolio.php:261
+#: widgets/recent_photos.php:142 widgets/slider.php:213
+#: widgets/testimonials.php:193
+msgid "How many:"
+msgstr "多少："
+
+#: widgets/albums.php:308 widgets/catalog.php:261 widgets/logos.php:230
+#: widgets/ourteem.php:233 widgets/photos.php:259 widgets/portfolio.php:265
+#: widgets/slider.php:217 widgets/testimonials.php:197 widgets/twitter.php:140
+msgid "Autoslide:"
+msgstr "自动幻灯片："
+
+#: widgets/catalog.php:18
+msgid "A widget with catalog"
+msgstr "目录小工具"
+
+#: widgets/catalog.php:193
+msgid "Show Catalog Items from following categories:"
+msgstr "显示以下类别目录："
+
+#: widgets/catalog.php:236
+msgid "Show hoovering Item description:"
+msgstr "显示悬停描述："
+
+#: widgets/catalog.php:240
+msgid "Ordering:"
+msgstr "排序："
+
+#: widgets/categories.php:12
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "查看 %s 下的所有文章"
+
+#: widgets/categories.php:32
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "给 %s 下的所有文章添加 Feed"
+
+#: widgets/custom_menu.php:33
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr "使用这个小工具添加一个小工具形式的自定义菜单。"
+
+#: widgets/custom_menu.php:34
+msgid "Custom Menu"
+msgstr "自定义菜单"
+
+#: widgets/custom_menu.php:73
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "还没有创建菜单。 <a href=\"%s\">创建一些菜单</a>。"
+
+#: widgets/custom_menu.php:82
+msgid "Select Menu:"
+msgstr "选择菜单："
+
+#: widgets/get_in_touch.php:13
+msgid "Contact form"
+msgstr "联系表单"
+
+#: widgets/get_in_touch.php:18
+msgid "Contact"
+msgstr "联系方式"
+
+#: widgets/get_in_touch.php:62
+msgid "Submit"
+msgstr "提交"
+
+#: widgets/get_in_touch.php:62
+msgid "Send message"
+msgstr "提交留言"
+
+#: widgets/get_in_touch.php:63
+msgid "сlear form"
+msgstr "清空"
+
+#: widgets/get_in_touch.php:99 widgets/text_and_photo.php:86
+msgid "Text:"
+msgstr "文本："
+
+#: widgets/get_in_touch.php:103
+msgid "Enable Captcha:"
+msgstr "启用验证码："
+
+#: widgets/get_in_touch.php:106
+msgid "Captha options"
+msgstr "验证码选项"
+
+#: widgets/logos.php:18
+msgid "A widget with logos"
+msgstr "logo 小工具"
+
+#: widgets/logos.php:23
+msgid "Logos"
+msgstr "Logos"
+
+#: widgets/logos.php:166
+msgid "Show Logos from following categories:"
+msgstr "显示以下类别 Logos："
+
+#: widgets/logos.php:203 widgets/ourteem.php:206 widgets/popular_posts.php:196
+msgid "There is no categories"
+msgstr "没有类别"
+
+#: widgets/ourteem.php:19
+msgid "A widget with your team"
+msgstr "团队小工具"
+
+#: widgets/ourteem.php:24
+msgid "Our team"
+msgstr "我们的团队"
+
+#: widgets/ourteem.php:169
+msgid "Show teammates from following categories:"
+msgstr "显示以下类别团队成员："
+
+#: widgets/photos.php:18 widgets/recent_photos.php:8
+msgid "A widget with photos from your albums"
+msgstr "相册图片小工具"
+
+#: widgets/photos.php:23
+msgid "Photos"
+msgstr "图片"
+
+#: widgets/photos.php:195
+msgid "Show Photos from following categories:"
+msgstr "显示以下类别图片："
+
+#: widgets/popular_posts.php:8
+msgid "Popular Posts"
+msgstr "热门文章"
+
+#: widgets/popular_posts.php:12
+msgid "Popular posts"
+msgstr "热门文章"
+
+#: widgets/popular_posts.php:159
+msgid "Show Posts from following categories:"
+msgstr "显示以下类别文章："
+
+#: widgets/portfolio.php:18
+msgid "A widget with portdolio"
+msgstr "项目小工具"
+
+#: widgets/portfolio.php:23
+msgid "Portfolio"
+msgstr "公文包"
+
+#: widgets/portfolio.php:197
+msgid "Show Projects from following categories:"
+msgstr "显示以下类别项目："
+
+#: widgets/portfolio.php:240 widgets/slider.php:209
+msgid "Show hovering description:"
+msgstr "显示悬停描述："
+
+#: widgets/recent_photos.php:16
+msgid "Small photos"
+msgstr "小图"
+
+#: widgets/recent_posts.php:6
+msgid "Recent Posts"
+msgstr "最近文章"
+
+#: widgets/recent_posts.php:27
+msgid "Number of posts to show:"
+msgstr "显示文章数量："
+
+#: widgets/recent_posts.php:84
+msgid "No title"
+msgstr "无标题"
+
+#: widgets/slider.php:15
+msgid "A widget with slider"
+msgstr "幻灯片小工具"
+
+#: widgets/slider.php:20
+msgid "Slider"
+msgstr "幻灯片"
+
+#: widgets/testimonials.php:17
+msgid "A widget with testimonials"
+msgstr "客户评价小工具"
+
+#: widgets/testimonials.php:133
+msgid "Show Testimonials from following categories:"
+msgstr "显示以下类别客户评价："
+
+#: widgets/text_and_photo.php:9
+msgid "A widget with some text and photo"
+msgstr "文字和图片小工具"
+
+#: widgets/text_and_photo.php:17
+msgid "Text & Photo"
+msgstr "文字 & 图片"
+
+#: widgets/text_and_photo.php:91
+msgid "Image:"
+msgstr "图片："
+
+#: widgets/twitter.php:12
+msgid "Displays your tweets"
+msgstr "显示您的 tweets"
+
+#: widgets/twitter.php:15
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/twitter.php:128
+msgid "Title"
+msgstr "标题"
+
+#: widgets/twitter.php:131
+msgid "Username"
+msgstr "用户名"
+
+#: widgets/twitter.php:134
+msgid "Number of Twitts"
+msgstr "Tweets 数量"
+
+#: widgets/twitter.php:137
+msgid "Text Link"
+msgstr "文字链接"
+
+#~ msgid "Content area"
+#~ msgstr "内容区域"
+
+#~ msgid "Main background"
+#~ msgstr "主要背景"
+
+#~ msgid "Background color"
+#~ msgstr "背景颜色"
+
+#~ msgid "Choose background image"
+#~ msgstr "选择背景图像"
+
+#~ msgid "Vertical position"
+#~ msgstr "垂直位置"
+
+#~ msgid "Horizontal position"
+#~ msgstr "水平位置"
+
+#~ msgid "Fixed background"
+#~ msgstr "固定背景"
+
+#~ msgid "Widgets/shortcodes background"
+#~ msgstr "小部件 / 短代码 背景"
+
+#~ msgid "Background opacity"
+#~ msgstr "背景透明度"
+
+#~ msgid "Header on homepage"
+#~ msgstr "主页头部"
+
+#~ msgid "...or upload your own image"
+#~ msgstr "...或者上传自定义图片"
+
+#~ msgid "Header on content pages"
+#~ msgstr "内容页面头部"
+
+#~ msgid "Top line background"
+#~ msgstr "顶线背景"
+
+#~ msgid "Mouse-responsive parallax background"
+#~ msgstr "鼠标响应视差背景"
+
+#~ msgid "Enable"
+#~ msgstr "启用"
+
+#~ msgid "Animate"
+#~ msgstr "动画"
+
+#~ msgid "Make parallax background sticky"
+#~ msgstr "粘性效果视差背景"
+
+#~ msgid "First level"
+#~ msgstr "第一级"
+
+#~ msgid "Second level"
+#~ msgstr "第二级"
+
+#~ msgid "Third level"
+#~ msgstr "第三级"
+
+#~ msgid "Fourth level"
+#~ msgstr "第四级"
+
+#~ msgid "Footer background"
+#~ msgstr "页脚背景"
+
+#~ msgid "Choose decorative line"
+#~ msgstr "选择装饰线"
+
+#~ msgid "Choose divider"
+#~ msgstr "选择分隔物"
+
+#~ msgid "Background in footer widgets"
+#~ msgstr "页脚小部件背景"
+
+#~ msgid "Bottom line background"
+#~ msgstr "底线背景"
+
+#~ msgid "Fonts"
+#~ msgstr "字体"
+
+#~ msgid "Basic font-family"
+#~ msgstr "基本字体类型"
+
+#~ msgid "Choose font"
+#~ msgstr "选择字体"
+
+#~ msgid "Main menu and buttons"
+#~ msgstr "主菜单和按钮"
+
+#~ msgid "Links color"
+#~ msgstr "链接颜色"
+
+#~ msgid "Activ links color"
+#~ msgstr "活动链接颜色"
+
+#~ msgid "Top line"
+#~ msgstr "顶线"
+
+#~ msgid "Text color"
+#~ msgstr "文字颜色"
+
+#~ msgid "Text shadow"
+#~ msgstr "文字阴影"
+
+#~ msgid "Contacts in header"
+#~ msgstr "头部联系方式"
+
+#~ msgid "Primary text color"
+#~ msgstr "主要文字颜色"
+
+#~ msgid "Primary text shadow"
+#~ msgstr "主要文字阴影"
+
+#~ msgid "Secondary text color"
+#~ msgstr "二级文字颜色"
+
+#~ msgid "Secondary text shadow"
+#~ msgstr "二级文字阴影"
+
+#~ msgid "Bottom line"
+#~ msgstr "底线"
+
+#~ msgid "Headers (h1-h6) font"
+#~ msgstr "标题（h1-h6） 字体"
+
+#~ msgid "Enable cufon"
+#~ msgstr "启用 cufon"
+
+#~ msgid "Choose cufon font from the list"
+#~ msgstr "从列表选择 cufon 字体"
+
+#~ msgid "...or upload your own cufon font"
+#~ msgstr "...或者上传自定义的 cufon 字体"
+
+#~ msgid "Headers sizes"
+#~ msgstr "标题大小"
+
+#~ msgid "Headers color in content area"
+#~ msgstr "内容区域标题颜色"
+
+#~ msgid "Text gradient: top color"
+#~ msgstr "文字梯度：上层颜色"
+
+#~ msgid "Text gradient: bottom color"
+#~ msgstr "文字梯度：下层颜色"
+
+#~ msgid "Text shadow color"
+#~ msgstr "文字阴影颜色"
+
+#~ msgid "Headers color in footer"
+#~ msgstr "页脚标题颜色"
+
+#~ msgid "Branding"
+#~ msgstr "品牌推广"
+
+#~ msgid "Logo in header"
+#~ msgstr "头部 Logo"
+
+#~ msgid "Logo position"
+#~ msgstr "Logo 位置"
+
+#~ msgid "Logo in footer"
+#~ msgstr "页脚 Logo"
+
+#~ msgid "Favicon"
+#~ msgstr "网站图标"
+
+#~ msgid "Copyright & Credits"
+#~ msgstr "Copyright & Credits"
+
+#~ msgid "Copyright information"
+#~ msgstr "版权信息"
+
+#~ msgid "Give credits to Dream-Theme"
+#~ msgstr "Give credits to Dream-Theme"
+
+#~ msgid "Show contacts in header"
+#~ msgstr "在头部显示联系方式"
+
+#~ msgid "Adress"
+#~ msgstr "地址"
+
+#~ msgid "Phone"
+#~ msgstr "电话"
+
+#~ msgid "Show next/prev links"
+#~ msgstr "显示 下一个 / 上一个 链接"
+
+#~ msgid "on blog post page"
+#~ msgstr "blog 页面"
+
+#~ msgid "on portfolio project page"
+#~ msgstr "项目页面"
+
+#~ msgid "Search form in the top line"
+#~ msgstr "顶线搜索表单"
+
+#~ msgid "Show search form"
+#~ msgstr "显示搜索表单"
+
+#~ msgid "Show author info in posts"
+#~ msgstr "文章显示作者信息"
+
+#~ msgid "Make parent menu items clickable"
+#~ msgstr "父菜单项可点击"
+
+#~ msgid "Analytics"
+#~ msgstr "Analytics"
+
+#~ msgid "Analytics code"
+#~ msgstr "Analytics code"
+
+#~ msgid "Skins"
+#~ msgstr "皮肤"
+
+#~ msgid "Select a skin"
+#~ msgstr "选择皮肤"
+
+#~ msgid "Socials"
+#~ msgstr "Socials"
+
+#~ msgid "Widget areas"
+#~ msgstr "小工具区"
+
+#~ msgid "Captcha options"
+#~ msgstr "验证码选项"
+
+#~ msgid "Enable CAPTCHA on the:"
+#~ msgstr "启用验证码："
+
+#~ msgid "do not show CAPTCHA to registered users"
+#~ msgstr "注册用户不显示验证码"
+
+#~ msgid "Arithmetic actions for CAPTCHA:"
+#~ msgstr "算术运算验证码："
+
+#~ msgid "minus (-)"
+#~ msgstr "减号（ - ）"
+
+#~ msgid "multiply (x)"
+#~ msgstr "乘（X）"
+
+#~ msgid "Difficulty for CAPTCHA:"
+#~ msgstr "困难验证码："
+
+#~ msgid "numbers"
+#~ msgstr "数字"
+
+#~ msgid "words"
+#~ msgstr "文字"
+
+#~ msgid "Tags: "
+#~ msgstr "标签："
+
+#~ msgid "Post %d of %d"
+#~ msgstr "Post %d of %d"
+
+#~ msgid "Slideshows"
+#~ msgstr "幻灯片"
+
+#~ msgid "Slideshow"
+#~ msgstr "幻灯片"
+
+#~ msgid "Add New Slideshow"
+#~ msgstr "添加新幻灯片"
+
+#~ msgid "Edit Slideshow"
+#~ msgstr "编辑幻灯片"
+
+#~ msgid "New Slideshow"
+#~ msgstr "新幻灯片"
+
+#~ msgid "View Slideshow"
+#~ msgstr "显示幻灯片"
+
+#~ msgid "No Slideshows Found"
+#~ msgstr "没有找到幻灯片"
+
+#~ msgid "No Slideshows found in Trash"
+#~ msgstr "回收站为空"
